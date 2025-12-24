@@ -1,5 +1,16 @@
 # 💫 About Me:
-I'm a full-stack software engineer with a primary focus on front-end development.<br><br>I make web products beautiful that function in a strong way<br><br>I love jobs where planning joins reason since<br><br>usefulness merges with artistry.<br><br>I love turning ideas into reality by code.<br><br>From user-friendly interfaces to scalable back-end systems,<br><br>I focus on complete solutions.
+
+💻 Full-Stack Developer with hands-on experience in MERN stack (React, Node.js, Express, MongoDB)<br>
+
+📱 Mobile Application Developer using React Native + Expo for cross-platform apps<br>
+
+🔧 Experienced with Firebase, Appwrite, and RESTful API integration<br>
+
+🧠 Built real-world projects including service-based apps, AI-powered tools, and real-time systems<br>
+
+🤖 Actively exploring AI agents, prompt engineering, and AI-integrated applications<br>
+
+🛠️ Comfortable with Git & GitHub, clean code practices, and collaborative workflows<br>
 
 
 ## 🌐 Socials:
